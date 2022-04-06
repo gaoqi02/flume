@@ -1,2 +1,2 @@
 # flume
-Flume插件
+Flume source端解压缩插件
